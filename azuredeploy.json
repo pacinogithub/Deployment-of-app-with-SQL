@@ -123,8 +123,8 @@
             "[resourceId('Microsoft.Sql/servers', parameters('D1'))]"
           ],
           "properties": {
-            "startIpAddress": "0.0.0.0",
-            "endIpAddress": "0.0.0.0"
+            "startIpAddress": "10.0.0.0",
+            "endIpAddress": "10.0.0.0"
           }
         },
         {
